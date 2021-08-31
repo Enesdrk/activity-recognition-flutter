@@ -1,4 +1,4 @@
-# gpstask
+# Activity Recognation 
 
 A new Flutter project.
 
